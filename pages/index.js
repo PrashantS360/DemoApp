@@ -27,40 +27,34 @@ export default function Home() {
     },
     {
       id: "2",
-      category: "Laptop",
-      priceRange: "2999-3999",
+      category: "Mobile",
+      priceRange: "299-399",
       variation: [
         {
-          product: `Apple MacBook Pro 17"`,
-          color: "Silver",
-          rating: "4.5",
-          price: "2999",
+          product: `Realme Narzo 50A"`,
+          color: "Red",
+          rating: "3.7",
+          price: "299",
         },
         {
-          product: `Asus Vivobook S14`,
-          color: "Indie Black",
-          rating: "4.3",
-          price: "2499",
+          product: `Remdi Note 10 pro`,
+          color: "Black",
+          rating: "4.1",
+          price: "249",
         },
       ]
     },
     {
       id: "3",
-      category: "Laptop",
-      priceRange: "2999-3999",
+      category: "Smart Watch",
+      priceRange: "29-199",
       variation: [
         {
-          product: `Apple MacBook Pro 17"`,
-          color: "Silver",
-          rating: "4.5",
-          price: "2999",
-        },
-        {
-          product: `Asus Vivobook S14`,
-          color: "Indie Black",
-          rating: "4.3",
-          price: "2499",
-        },
+          product: `Apple`,
+          color: "Blue",
+          rating: "4.7",
+          price: "199",
+        }
       ]
     }
   ];
